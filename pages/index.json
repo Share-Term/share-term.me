@@ -4,11 +4,5 @@
     "slug": "home",
     "path": "/",
     "order": 10
-  },
-  {
-    "title": "Contact",
-    "order": 40,
-    "slug": "contact",
-    "path": "/contact"
   }
 ]

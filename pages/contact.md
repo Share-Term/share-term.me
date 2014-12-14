@@ -1,1 +1,0 @@
-Contact Bloggify developers at **contact@bloggify.net** or using the contact form below: {contact_form}
