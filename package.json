@@ -1,0 +1,24 @@
+{
+  "name": "bloggify-starter-website",
+  "version": "1.0.0",
+  "description": "A Bloggify starter website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Bloggify/Starter.git"
+  },
+  "keywords": [
+    "bloggify",
+    "starter",
+    "website"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bloggify/Starter/issues"
+  },
+  "homepage": "https://github.com/Bloggify/Starter"
+}
