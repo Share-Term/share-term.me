@@ -1,5 +1,3 @@
-<center>
-
 ## Thank you!
 
 I hope you enjoyed using *Share Term*. You can support the development of this software or other open-source projects via one the following ways:
@@ -9,6 +7,3 @@ I hope you enjoyed using *Share Term*. You can support the development of this s
 For updates and news follow me on [<i class="fa fa-twitter"></i>
  Twitter](https://twitter.com/IonicaBizau) and [<i class="fa fa-github"></i>
  GitHub](https://github.com/IonicaBizau)
-
-
-</center>
