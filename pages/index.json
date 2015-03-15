@@ -10,5 +10,11 @@
     "order": 30,
     "slug": "contact",
     "path": "/contact"
+  },
+  {
+    "title": "Thank you",
+    "path": "/thank-you",
+    "slug": "thank-you",
+    "order": 30
   }
 ]
