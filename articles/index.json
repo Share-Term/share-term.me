@@ -15,5 +15,17 @@
     "id": 2,
     "slug": "test-article",
     "date": "2015-03-25T18:59:37.142Z"
+  },
+  {
+    "title": "Another test article",
+    "by": "Ionică Bizău",
+    "tags": [
+      "test",
+      "foo",
+      "bar"
+    ],
+    "id": 3,
+    "slug": "another-test-article",
+    "date": "2015-03-25T19:00:17.444Z"
   }
 ]
