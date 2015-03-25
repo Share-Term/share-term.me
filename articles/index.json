@@ -5,5 +5,15 @@
     "date": "2014-12-14T21:00:00.000Z",
     "by": "Bloggify Ghost",
     "id": 1
+  },
+  {
+    "title": "Test article",
+    "by": "Ionică Bizău",
+    "tags": [
+      "test"
+    ],
+    "id": 2,
+    "slug": "test-article",
+    "date": "2015-03-25T18:59:37.142Z"
   }
 ]
