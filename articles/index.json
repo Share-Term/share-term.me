@@ -27,5 +27,16 @@
     "id": 3,
     "slug": "another-test-article",
     "date": "2015-03-25T19:00:17.444Z"
+  },
+  {
+    "title": "Lorem ipsum",
+    "by": "Ionică Bizău",
+    "tags": [
+      "lore",
+      "ipsum"
+    ],
+    "id": 4,
+    "slug": "lorem-ipsum",
+    "date": "2015-03-25T19:00:35.218Z"
   }
 ]
