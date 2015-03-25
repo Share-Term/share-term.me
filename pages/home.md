@@ -1,11 +1,10 @@
 <hr>
 <div class="text-center provide-ip">
-     <h2>Got an id? See the shared terminal now:</h2>
-
-    <form action="/term" method="get">
-        <input type="text" name="id" class="form-elm" placeholder="Enter the id">
-        <button type="submit" class="btn bg-black">Access</button>
-    </form>
+<h2>Got an id? See the shared terminal now:</h2>
+<form action="/term" method="get">
+<input type="text" name="id" class="form-elm" placeholder="Enter the id">
+<button type="submit" class="btn bg-black">Access</button>
+</form>
 </div>
 <hr>
 <div class="section">
