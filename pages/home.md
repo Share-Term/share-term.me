@@ -1,11 +1,48 @@
-<img src="/images/logo.png" alt="" style="float:left;width:300px;margin:20px">
-Dolor dolore totam voluptatibus voluptatum ad! Ad nemo quis culpa deserunt modi rerum cumque ratione eligendi quisquam corrupti? Iure nulla ex incidunt esse deleniti. Minus dolor amet itaque ea eveniet!
+<hr>
+<div class="text-center provide-ip">
+     <h2>Got an id? See the shared terminal now:</h2>
 
-Dolor facilis omnis ipsa nihil voluptates eius qui animi dolore. Eum ut sit quibusdam eum nemo, vel natus fugiat maiores eos magni impedit. Nisi nulla magni aspernatur quos dignissimos rerum!
+    <form action="/term" method="get">
+        <input type="text" name="id" class="form-elm" placeholder="Enter the id">
+        <button type="submit" class="btn bg-black">Access</button>
+    </form>
+</div>
+<hr>
+<div class="section">
+    <img src="images/1.png" class="pull-left">
+    <div class="description">
+         <h1>What is a <em>terminal</em>?</h1>
 
-Elit sunt illum similique tenetur eius voluptatem odit cum numquam maiores tenetur totam atque distinctio, ipsa. Iure neque aliquid ipsa nam saepe sint adipisci alias distinctio rerum repellendus atque, inventore!
+        <p>Terminal emulators are powerful tools giving the user command line access.</p>
+        <p>They are heavily used on Linux and UNIX platforms.</p>
+    </div>
+</div>
+<hr>
+<div class="section">
+    <img src="images/2.png" class="pull-right">
+    <div class="description">
+         <h1>Collaboration</h1>
 
-Ipsum pariatur sequi quasi amet debitis. Eaque alias maxime blanditiis rerum ea? Ducimus labore labore quam quaerat voluptatem aut explicabo. Obcaecati doloremque laboriosam vitae molestias unde! Ducimus rem facere totam?
+        <p>Since many developers spend a lot of time in terminals, I created <strong>ShareTerm</strong> - a tool for sharing the terminal between collaborators.</p>
+        <p>When collaborating with others or just want to show something cool to a friend or a group, <strong>ShareTerm</strong> is awesome.</p>
+    </div>
+</div>
+<hr>
+<div class="section">
+    <img src="images/3.png" class="pull-left">
+    <div class="description">
+         <h1>Sharing the terminal</h1>
 
-Dolor temporibus quis dolor recusandae nulla atque eos odio. Quod nulla consequatur molestias asperiores earum numquam perspiciatis quis mollitia laboriosam reprehenderit quasi animi quos quas! Qui cum nemo deleniti rerum.
+        <p><strong>ShareTerm</strong> can share a terminal session in browser or in another terminal.</p>
+    </div>
+</div>
+<hr>
+<div class="section">
+    <img src="images/4.png" class="pull-right">
+    <div class="description">
+         <h1>Remote access</h1>
 
+        <p><strong>ShareTerm</strong> also supports remote access from browser.</p>
+    </div>
+</div>
+<hr>

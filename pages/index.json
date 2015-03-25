@@ -1,8 +1,8 @@
 [
   {
     "title": "Home",
-    "slug": "home",
     "path": "/",
+    "slug": "home",
     "order": 10
   },
   {
