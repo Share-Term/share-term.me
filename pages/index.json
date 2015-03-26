@@ -7,9 +7,9 @@
   },
   {
     "title": "Contact",
-    "order": 30,
+    "path": "/contact",
     "slug": "contact",
-    "path": "/contact"
+    "order": 30
   },
   {
     "title": "Thank you",
