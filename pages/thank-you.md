@@ -4,5 +4,4 @@
 
 <h3 class="text-center">Would you consider a gift of $10?</h3>
 
-
-## [PayPal Donations](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FHC8NQC3YK924) | [<i class="fa fa-gratipay"></i> Gratipay](https://gratipay.com/IonicaBizau/)
+[<i class="fa fa-paypal"></i>](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FHC8NQC3YK924) | [<i class="fa fa-gratipay"></i> Gratipay](https://gratipay.com/IonicaBizau/)
