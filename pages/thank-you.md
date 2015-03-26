@@ -4,4 +4,4 @@
 
 <h3 class="text-center">Would you consider a gift of $10?</h3>
 
-<div class="donate">[<i class="fa fa-cc-paypal"></i>](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FHC8NQC3YK924) | [<i class="fa fa-gratipay"></i> Gratipay](https://gratipay.com/IonicaBizau/)</div>
+<div class="donate text-center">[<i class="fa fa-cc-paypal"></i>](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FHC8NQC3YK924) [<i class="fa fa-gratipay"></i> Gratipay](https://gratipay.com/IonicaBizau/)</div>
