@@ -1,4 +1,4 @@
-## Thank you!
+<h2 class="text-center">Thank you!</h2>
 
 I hope you enjoyed using *Share Term*. You can support the development of this software or other open-source projects via one the following ways:
 
