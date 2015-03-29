@@ -17,5 +17,11 @@
     "slug": "thank-you",
     "order": 30,
     "visible": false
+  },
+  {
+    "title": "Support",
+    "path": "/support",
+    "slug": "support",
+    "order": 30
   }
 ]
