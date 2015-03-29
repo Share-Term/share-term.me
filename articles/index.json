@@ -1,42 +1,14 @@
 [
+  {},
   {
     "title": "Hello World",
-    "slug": "hello-world",
-    "date": "2014-12-14T21:00:00.000Z",
-    "by": "Bloggify Ghost",
-    "id": 1
-  },
-  {
-    "title": "Test article",
     "by": "Ionică Bizău",
     "tags": [
-      "test"
+      "hello",
+      "world"
     ],
     "id": 2,
-    "slug": "test-article",
-    "date": "2015-03-25T18:59:37.142Z"
-  },
-  {
-    "title": "Another test article",
-    "by": "Ionică Bizău",
-    "tags": [
-      "test",
-      "foo",
-      "bar"
-    ],
-    "id": 3,
-    "slug": "another-test-article",
-    "date": "2015-03-25T19:00:17.444Z"
-  },
-  {
-    "title": "Lorem ipsum",
-    "by": "Ionică Bizău",
-    "tags": [
-      "lore",
-      "ipsum"
-    ],
-    "id": 4,
-    "slug": "lorem-ipsum",
-    "date": "2015-03-25T19:00:35.218Z"
+    "slug": "hello-world",
+    "date": "2015-03-29T16:32:07.575Z"
   }
 ]
