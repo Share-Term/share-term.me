@@ -15,6 +15,7 @@
     "title": "Thank you",
     "path": "/thank-you",
     "slug": "thank-you",
-    "order": 30
+    "order": 30,
+    "visible": false
   }
 ]
