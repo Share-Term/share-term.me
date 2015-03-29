@@ -1,14 +1,13 @@
 [
-  {},
   {
     "title": "Hello World",
+    "date": "2015-03-29T16:32:07.000Z",
+    "id": 1,
     "by": "Ionică Bizău",
     "tags": [
       "hello",
       "world"
     ],
-    "id": 2,
-    "slug": "hello-world",
-    "date": "2015-03-29T16:32:07.575Z"
+    "slug": "hello-world"
   }
 ]
