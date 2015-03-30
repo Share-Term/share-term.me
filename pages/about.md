@@ -1,4 +1,4 @@
-<img src="http://i.imgur.com/DkZM3ub.png" width=200 class="pull-right img">
+<img src="http://i.imgur.com/DkZM3ub.png" width=200 class="pull-right img mrg-s">
 
 The main reason I created *Share Term* is that I wanted a simple and accessible solution for real time collaboration for terminals. If your collaborators are geeks, like you, they can access your terminal using their terminals. If not, your friends can watch your mad science inside of the browser and request remote control if that's needed.
 
