@@ -9,5 +9,17 @@
       "world"
     ],
     "slug": "hello-world"
+  },
+  {
+    "title": "Introducing Share Term ",
+    "by": "Ionică Bizău",
+    "tags": [
+      "NodeJS",
+      "HTML5",
+      "opensource"
+    ],
+    "id": 2,
+    "slug": "introducing-share-term-",
+    "date": "2015-03-30T13:33:24.154Z"
   }
 ]
