@@ -12,3 +12,5 @@ The *Share Term* projects are [open source on GitHub](https://github.com/Share-T
 ---
 
 If you like, [support *Share Term* now](http://share-term.me/support) or [give feedback how can be improved this service](http://share-term.me/contact). <i class="fa fa-heart"></i>
+
+![](http://i.imgur.com/DkZM3ub.png)
