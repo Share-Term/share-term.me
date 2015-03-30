@@ -17,5 +17,11 @@
     "slug": "support",
     "order": 30,
     "visible": false
+  },
+  {
+    "title": "About",
+    "path": "/about",
+    "slug": "about",
+    "order": 20
   }
 ]
