@@ -6,10 +6,10 @@ I wrote [here](http://share-term.me/blog/1-hello-world) an introduction into the
 
 The *Share Term* projects are [open source on GitHub](https://github.com/Share-Term), excepting the Bloggify core which is still closed source.
 
- - [Share-Term.me content](https://github.com/Share-Term/share-term.me) – a repository that contains the content of this website. If you find a typo or anything to improve the content on this site, please submit there the changes.
+ - [Share-Term.me content](https://github.com/Share-Term/share-term.me) – a repository that contains the content of this website. If you find a typo or anything to improve the content on this site, please submit the changes there.
  - [Share-Term Bloggify Plugin](https://github.com/Share-Term/server) – this is a Bloggify plugin which powers the server side of the Share Term.
  - [Mini Theme](https://github.com/Bloggify/mini-theme) – the Bloggify theme that is used on this website.
- - [Share Term Client](https://github.com/Share-Term/share-term) – the *Share Term* client wrote in NodeJS.
+ - [Share Term Client](https://github.com/Share-Term/share-term) – the *Share Term* client written in NodeJS.
 
 ---
 
