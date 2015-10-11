@@ -1,0 +1,80 @@
+{
+    "database": {
+        "uri": "mongodb://localhost:27017/bloggify_term"
+    },
+    "themeData": {
+        "headingTitle": "$ share-term<span style='opacity: 0.3;'>.me</span>",
+        "analytics": {
+            "id": "UA-61311542-1",
+            "url": "auto"
+        }
+    },
+    "blog": {
+        "order": 20
+    },
+    "site": {
+        "title": "Share-Term.me",
+        "description": "Share terminal sessions with your friends.",
+        "git": "git@github.com:Share-Term/share-term.me.git"
+    },
+    "plugins": [
+        {
+            "name": "article-tags",
+            "source": "git@github.com:Bloggify/article-tags.git",
+            "version": "master"
+        },
+        {
+            "name": "contact-form",
+            "source": "git@github.com:Bloggify/contact-form.git",
+            "version": "master",
+            "config": {
+                "mandrill_key": "the mandrill key :)",
+                "contact_page": "/contact",
+                "contact": {
+                    "email": "contact@share-term.me",
+                    "name": "Ionic[m~C Biz[m~Cu"
+                }
+            }
+        },
+        {
+            "name": "share-term",
+            "source": "git@github.com:Share-Term/server.git",
+            "version": "master"
+        },
+        {
+            "name": "custom-client-files",
+            "source": "git@github.com:Bloggify/custom-client-files.git",
+            "version": "master"
+        },
+        {
+            "name": "api",
+            "source": "git@github.com:IonicaBizau/api.git",
+            "version": "master"
+        },
+        {
+            "name": "dashboard",
+            "source": "git@github.com:IonicaBizau/dashboard.git",
+            "version": "master",
+            "config": {
+                "users": [
+                    {
+                        "username": "IonicaBizau",
+                        "displayName": "the username :)",
+                        "password": "the password :)"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "lightbox",
+            "source": "git@github.com:Bloggify/lightbox.git",
+            "version": "master"
+        },
+        {
+            "name": "social",
+            "source": "git@github.com:Bloggify/social.git",
+            "version": "master"
+        }
+    ],
+    "port": 9001
+}
