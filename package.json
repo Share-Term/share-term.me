@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "./node_modules/bloggify/bin/bloggify -c config/index.json"
+    "start": "bloggify -c config/index.json"
   },
   "author": "Ionică Bizău <bizauionica@gmail.com>",
   "repository": {
