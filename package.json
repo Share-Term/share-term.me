@@ -23,6 +23,9 @@
     "url": "https://github.com/Share-Term/share-term.me/issues"
   },
   "homepage": "https://github.com/Share-Term/share-term.me#readme",
+  "dependencies": {
+      "bloggify": "ionicabizau/bloggify"
+  },
   "blah": {
       "ex_img": "http://i.imgur.com/5zpClQJ.png",
       "title": "Share Term [Blog](http://share-term.me)",
