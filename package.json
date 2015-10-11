@@ -1,24 +1,31 @@
 {
-  "name": "bloggify-starter-website",
+  "name": "share-term-blog",
   "version": "1.0.0",
-  "description": "A Bloggify starter website.",
+  "description": "The share-term.me content.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "Ionică Bizău <bizauionica@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Bloggify/Starter.git"
+    "url": "git+https://github.com/Share-Term/share-term.me.git"
   },
   "keywords": [
-    "bloggify",
-    "starter",
-    "website"
+    "share",
+    "term",
+    "terminal",
+    "blog",
+    "bloggify"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com>",
-  "license": "MIT",
+  "license": "KINDLY",
   "bugs": {
-    "url": "https://github.com/Bloggify/Starter/issues"
+    "url": "https://github.com/Share-Term/share-term.me/issues"
   },
-  "homepage": "https://github.com/Bloggify/Starter"
+  "homepage": "https://github.com/Share-Term/share-term.me#readme",
+  "blah": {
+      "ex_img": "http://i.imgur.com/5zpClQJ.png",
+      "title": "Share Term [Blog](http://share-term.me)",
+      "description": "If you want to contribute to the http://share-term.me website, this is the place where you should do it. Send us pull requests!"
+  }
 }
