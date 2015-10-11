@@ -1,0 +1,3 @@
+[submodule "content/theme"]
+	path = content/theme
+	url = git@github.com:Bloggify/mini-theme.git
