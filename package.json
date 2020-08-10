@@ -1,6 +1,6 @@
 {
   "name": "share-term-blog",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The share-term.me content.",
   "main": "index.js",
   "scripts": {
