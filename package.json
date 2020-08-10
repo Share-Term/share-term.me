@@ -1,6 +1,6 @@
 {
   "name": "share-term-blog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The share-term.me content.",
   "main": "index.js",
   "scripts": {
@@ -25,11 +25,11 @@
   },
   "homepage": "https://github.com/Share-Term/share-term.me#readme",
   "dependencies": {
-      "bloggify": "ionicabizau/bloggify"
+    "bloggify": "ionicabizau/bloggify"
   },
   "blah": {
-      "ex_img": "http://i.imgur.com/5zpClQJ.png",
-      "title": "Share Term [Blog](http://share-term.me)",
-      "description": "If you want to contribute to the http://share-term.me website, this is the place where you should do it. Send us pull requests!"
+    "ex_img": "http://i.imgur.com/5zpClQJ.png",
+    "title": "Share Term [Blog](http://share-term.me)",
+    "description": "If you want to contribute to the http://share-term.me website, this is the place where you should do it. Send us pull requests!"
   }
 }
