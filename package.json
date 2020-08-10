@@ -1,13 +1,13 @@
 {
   "name": "share-term-blog",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "The share-term.me content.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "bloggify -c config/index.json"
   },
-  "author": "Ionică Bizău <bizauionica@gmail.com>",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Share-Term/share-term.me.git"
@@ -19,7 +19,7 @@
     "blog",
     "bloggify"
   ],
-  "license": "KINDLY",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Share-Term/share-term.me/issues"
   },
@@ -31,5 +31,20 @@
     "ex_img": "http://i.imgur.com/5zpClQJ.png",
     "title": "Share Term [Blog](http://share-term.me)",
     "description": "If you want to contribute to the http://share-term.me website, this is the place where you should do it. Send us pull requests!"
-  }
+  },
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "scripts/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
+  ]
 }
